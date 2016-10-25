@@ -25,7 +25,7 @@ Blang.js uses an advanced loop optimization technique known as a reverse while l
 Blang.js is perfectly conformant with the original `<BLINK>` implementation: the blink rate is derived from the Gecko
  sourcecode and does not support any extraneous features.
 
-Blang.min.js🗜 is only 181 BYTES!  It's so small, zip "compression" only increases the size of the file!
+Minified (🗜), Blang.js is only 181 BYTES!  It's so small, zip "compression" only increases the size of the file!
 
 License Superiority
 -------------------

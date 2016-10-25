@@ -6,10 +6,10 @@
 
 💥Blang.js🔥 is a <a href="https://en.wikipedia.org/wiki/Polyfill">pollyfill</a> for the `<BLINK>` tag.
 
-Actually, it's more than that.  It's a movement.  A movement to make the web great again (#MWGA)!!
+Actually, it's more than that.  In 2013 elitist designers, [accessibility "experts"](https://www.w3.org/TR/CSS21/text.html#lining-striking-props), and 
+epilepsy-nazis killed the `<BLINK>` tag. 🔫Blang.js🎉 restores the web to its former glory.
 
-In 2013 elitist designers, [accessibility "experts"](https://www.w3.org/TR/CSS21/text.html#lining-striking-props), and 
-epilepsy-nazis removed the `<BLINK>` tag. 🔫Blang.js🎉 restores the web to its former glory.
+It's a movement.  A movement to make the web great again (#MWGA)!!
 
 How To Use
 ==========

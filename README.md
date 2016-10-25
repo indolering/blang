@@ -22,14 +22,14 @@ Technical Superiority
 ---------------------
 🍬Blang.js🍹 uses advanced loop optimization technique known as a reverse while loop, which [beats out even cached for loops!](https://jsperf.com/while-reverse-vs-for-cached-length)
 
-🏦Blang.js🏦 is also striclty standards based, the blink rate is derived from the original Mozilla sourcecode and does not
+🏦Blang.js🌋 is also striclty standards based, the blink rate is derived from the original Mozilla sourcecode and does not
 support any extraneous features.
 
-📀Blang.min.js🍭 is only 181 BYTES!  It's so small, zip "compression" only increases the size of the file!
+🔨Blang.min.js🗜 is only 181 BYTES!  It's so small, zip "compression" only increases the size of the file!
 
 License Superiority
 -------------------
-Blang.js is available under the Microsoft Public License.  While we would prefer to use the Microsoft Limited Reciprocal License (Ms-LRL),
+📀Blang.js🍭 is available under the Microsoft Public License.  While we would prefer to use the Microsoft Limited Reciprocal License (Ms-LRL),
 the open source mob has forced us to adopt an Open Source certified license, the best of which is the MS-PL.
 
 Divine Authority

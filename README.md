@@ -1,4 +1,4 @@
-<blink>Blang.js: Teh 💎Blangingest✨ `<BLINK></BLINK>` Polyfill Available</blink>
+<blink>Blang.js: Teh 💎Blangingest✨ `<BLINK></BLINK>` Polyfill Ever</blink>
 ==================================================================
 <img src="https://img.shields.io/badge/build-passing-green.svg">
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">

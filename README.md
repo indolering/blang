@@ -11,7 +11,7 @@ Actually, it's more than that.  It's a movement.  A movement to make the web gre
 In 2013 elitist designers, [accessibility "experts"](https://www.w3.org/TR/CSS21/text.html#lining-striking-props), and 
 epilepsy-nazis killed the `<BLINK>` tag.
 
-Blang.js restores the web to its former glory 🎉📀🍹🍭🍬🌋🏦!
+Blang.js restores the web to its former glory 🎉💾!
 
 
 

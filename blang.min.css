@@ -1,0 +1,1 @@
+blink{animation:blink 250;animation-iteration-count:infinite}@keyframes blink{0%,50%{opacity:0}100%,50.01%{opacity:1}}

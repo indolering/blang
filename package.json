@@ -1,24 +1,39 @@
 {
-  "name": "blink-polyfill",
-  "version": "1.0.1",
-  "description": "HTML blink tag",
-  "main": "index.js",
-  "scripts": {},
+  "name": "blang.js",
+  "version": "10.10.10",
+  "description": "Blang.js: Teh Blangingest `<BLINK></BLINK>` Polyfill Available",
+  "main": "blang.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "return true;"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suresk/blink-polyfill.git"
+    "url": "git+https://github.com/indolering/blang.git"
   },
   "keywords": [
     "blink",
-    "geocities",
-    "angelfire",
-    "tripod"
+    "polyfill",
+    "#MWGA",
+    "makethewebgreatagain",
+    "make",
+    "the",
+    "web",
+    "great",
+    "again",
+    "blang",
+    "blan.js",
+    "blanging",
+    "blangest",
+    "blanger",
+    "blangingest"
   ],
-  "author": "Spencer Uresk <suresk@gmail.com>",
-  "contributors": ["Geoff Berger <geoffberger@gmail.com>"],
-  "license": "MIT",
+  "author": "God",
+  "license": "MS-PL",
   "bugs": {
-    "url": "https://github.com/suresk/blink-polyfill/issues"
+    "url": "https://github.com/indolering/blang/issues"
   },
-  "homepage": "https://github.com/suresk/blink-polyfill"
+  "homepage": "https://github.com/indolering/blang#readme"
 }

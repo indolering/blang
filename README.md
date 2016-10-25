@@ -4,10 +4,9 @@
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">
 <img src="https://img.shields.io/packagist/dm/doctrine/orm.svg">
 
-💥Blang.js🔥 is a <a href="https://en.wikipedia.org/wiki/Polyfill">pollyfill</a> for the `<BLINK></BLINK>`.  
-Actually, it's more than that.  It's a movement.  A movement to make the web the web great again (#MWGA).
+💥Blang.js🔥 is a <a href="https://en.wikipedia.org/wiki/Polyfill">pollyfill</a> for the `<BLINK></BLINK>`.  Actually, it's more than that.  It's a movement.  A movement to make the web great again (#MWGA).
 
-In 2013 Elistist designers, [accesibility "experts"](https://www.w3.org/TR/CSS21/text.html#lining-striking-props), and epilepsy-nazis removed the `<BLINK></BLINK>` tag. 🔫Blang.js🎉
+In 2013 elitist designers, [accessibility "experts"](https://www.w3.org/TR/CSS21/text.html#lining-striking-props), and epilepsy-nazis removed the `<BLINK></BLINK>` tag. 🔫Blang.js🎉
 restores the `<BLINK></BLINK>` (and the web) to its former glory.
 
 How To Use

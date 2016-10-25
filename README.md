@@ -30,12 +30,13 @@ Technical Superiority
 
 License Superiority
 -------------------
-📀Blang.js🍭 is available under the Microsoft Public License.  While we would prefer to use the Microsoft Limited Reciprocal License (Ms-LRL),
-the Open Source mob has forced us to adopt an Open Source certified license.
+📀Blang.js🍭 is available under the Microsoft Public License.  While we would prefer to use the Microsoft Limited 
+Reciprocal License (Ms-LRL), the Open Source mob has forced us to adopt an Open Source certified license.
 
 Divine Authority
 ----------------
-The sourcecode was channeled by our leader **directly** from on-high during a 3-day bender. It wasn't just cloned from some other blink polyfill nor kludged together
-  by copying and pasting examples from Wikipedia and StackOverflow.  Thus, it is perfect, ranking alongisde [TempleOS](http://www.templeos.org/).
+The sourcecode was channeled by our leader **directly** from on-high during a 3-day bender. It wasn't just cloned from 
+some other blink polyfill nor kludged together by copying and pasting examples from Wikipedia and StackOverflow.  Thus, 
+it is prefect, akin to [TempleOS](http://www.templeos.org/).
   
   🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅

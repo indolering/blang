@@ -1,5 +1,5 @@
 <blink>Blang.js: Teh 💎Blangingest✨ `<BLINK></BLINK>` Polyfill Ever</blink>
-==================================================================
+============================================================================
 <img src="https://img.shields.io/badge/build-passing-green.svg">
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">
 <img src="https://img.shields.io/packagist/dm/doctrine/orm.svg">
@@ -23,7 +23,7 @@ Technical Superiority
 ---------------------
 🍬Blang.js🍹 uses an advanced loop optimization technique known as a reverse while loop for [ultimate speed](https://jsperf.com/while-reverse-vs-for-cached-length).
 
-🏦Blang.js🌋 is perfectly conformant with the original `<BLINK>` tag, the blink rate is derived from the original Mozilla
+🏦Blang.js🌋 is perfectly conformant with the original `<BLINK>` implementation: the blink rate is derived from the Gecko
  sourcecode and does not support any extraneous features.
 
 🔨Blang.min.js🗜 is only 181 BYTES!  It's so small, zip "compression" only increases the size of the file!

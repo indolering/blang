@@ -29,7 +29,7 @@ support any extraneous features.
 License Superiority
 -------------------
 📀Blang.js🍭 is available under the Microsoft Public License.  While we would prefer to use the Microsoft Limited Reciprocal License (Ms-LRL),
-the open source mob has forced us to adopt an Open Source certified license, the best of which is the MS-PL.
+the Open Source mob has forced us to adopt an Open Source certified license.
 
 Divine Authority
 ----------------

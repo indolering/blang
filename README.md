@@ -16,8 +16,8 @@ To use, import either `blang.js` or `blang.css`.  Either file will #blang anythi
 Blang is available on NPM, Bower, and the jsDelivr CDN:
     
 
-Why is <blink>Blang.js</blink> the blangingest `<BLINK>` Polyfill Ever</blink>
-=========================================================================
+Why is <blink>Blang.js</blink> the blangingest `<BLINK>` Polyfill Ever</blink>?
+===============================================================================
 <blink>Blang.js</blink> was not forked from an inferior project nor kludged together by copying and pasting examples
  from Wikipedia and StackOverflow. 
  

@@ -1,0 +1,34 @@
+{
+  "name": "Blang.js",
+  "description": "Blang.js: Teh Blang'n-est <BLINK> Polyfill Ever",
+  "main": "blang.js",
+  "authors": [
+    "God"
+  ],
+  "license": "MS-PL",
+  "keywords": [
+    "blink",
+    "polyfill",
+    "#MWGA",
+    "makethewebgreatagain",
+    "make",
+    "the",
+    "web",
+    "great",
+    "again",
+    "blang",
+    "blang.js",
+    "blanging",
+    "blangest",
+    "blanger",
+    "blangingest"
+  ],
+  "homepage": "https://github.com/indolering/blang",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

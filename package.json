@@ -1,13 +1,13 @@
 {
   "name": "blang.js",
   "version": "10.0.0",
-  "description": "Blang.js: Teh Blangingest `<BLINK></BLINK>` Polyfill Ever",
+  "description": "Blang.js: Teh Blang'n-est <BLINK> Polyfill Ever",
   "main": "blang.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "return true;"
+    "test": "echo 'TRUE'"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
     "great",
     "again",
     "blang",
-    "blan.js",
+    "blang.js",
     "blanging",
     "blangest",
     "blanger",

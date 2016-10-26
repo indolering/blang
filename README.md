@@ -12,9 +12,13 @@ But <blink>Blang.js</blink> is more than just a pollyfill: it's a movement. In 2
  
 <h1>#blangin #MWGA<h1>
 
+You can import 
+
 Why is <blink>Blang.js</blink> the greatest `<BLINK>` Polyfill ever made?
 =========================================================================
-
+<blink>Blang.js</blink> was not forked from an inferior project nor kludged together by copying and pasting examples
+ from Wikipedia and StackOverflow. 
+ 
 Technical Superiority
 ---------------------
 <blink>Blang.js</blink> is perfectly conformant with the original `<BLINK>` implementation: the blink rate is derived 
@@ -23,18 +27,17 @@ Technical Superiority
 <blink>Blang.js</blink> uses an advanced loop optimization technique known as a "reverse while loop" for [ultimate 
 speed](loop).
 
-Minified, <blink>Blang.js</blink> is only 225 BYTES!
+<blink>Blang.js</blink> is less than 50 BYTES in size!  It's incredible!
 
 License Superiority
 -------------------
-<blink>Blang.js</blink> is available under the Microsoft Public License.  While we would prefer to use the Microsoft Limited 
-Reciprocal License (Ms-LRL), the Open Source mob has forced us to adopt an Open Source certified license.
+<blink>Blang.js</blink> is available under the Microsoft Public License.  While we would prefer to use the Microsoft
+ Limited Reciprocal License (Ms-LRL), the Open Source mob has forced us to adopt an Open Source certified license.
 
-Divine Authority
+Spiritual Superiority
 ----------------
-The sourcecode was channeled by our leader **directly** from on-high during a 3-day bender. It wasn't just cloned from 
-some other blink polyfill nor kludged together by copying and pasting examples from Wikipedia and StackOverflow.  Thus, 
-it is prefect, akin to [TempleOS](temple).
+<blink>Blang.js</blink> was coded during a 3-day ~~bender~~ spiritual quest during which the almighty GOD himself
+ took control of the keyboard. Thus, it is prefect, akin to [TempleOS](temple).
 
 🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅
 

@@ -1,4 +1,4 @@
-<blink>💎Blang.js✨ Teh Blang'nest `<BLINK>` Polyfill Ever</blink>
+<blink>💎Blang.js✨ Teh Blangingest `<BLINK>` Polyfill Ever</blink>
 ===================================================================
 <img src="https://img.shields.io/badge/build-passing-green.svg">
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">
@@ -11,7 +11,7 @@ But <blink>Blang.js</blink> is more than just a pollyfill: it's a movement. In 2
  web great again (#MWGA)!
  
 To use, import either `blang.js` or `blang.css`.  Either file will #blang anything wrapped in a `<blink>` tag or using a 
- blang class.
+ `.blang` class.
 
 Blang is available on NPM, Bower, and the jsDelivr CDN:
     
@@ -24,7 +24,7 @@ Why is <blink>Blang.js</blink> the greatest `<BLINK>` Polyfill ever made?
 Technical Superiority
 ---------------------
 <blink>Blang.js</blink> is perfectly conformant with the original `<BLINK>` implementation: the blink rate is derived 
- from the Gecko sourcecode and adds the [`blink()`](blink()) utility function to the `String` prototype.
+ from the Gecko sourcecode and adds the [`blink` utility function](blink()) to the `String` prototype.
  
 <blink>Blang.js</blink> uses an advanced loop optimization technique known as a "reverse while loop" for [ultimate 
 speed](loop).

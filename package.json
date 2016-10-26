@@ -1,6 +1,6 @@
 {
   "name": "blang.js",
-  "version": "10.10.10",
+  "version": "10.0.0",
   "description": "Blang.js: Teh Blangingest `<BLINK></BLINK>` Polyfill Ever",
   "main": "blang.js",
   "directories": {

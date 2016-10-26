@@ -1,4 +1,4 @@
-<blink>💎Blang.js✨ Teh Blangingest `<BLINK>` Polyfill Ever</blink>
+<blink>💎Blang.js✨ Teh Blang'nest `<BLINK>` Polyfill Ever</blink>
 ===================================================================
 <img src="https://img.shields.io/badge/build-passing-green.svg">
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">
@@ -10,9 +10,7 @@ But <blink>Blang.js</blink> is more than just a pollyfill: it's a movement. In 2
  [accessibility "experts"](css2), and epilepsy-nazis killed the `<BLINK>` tag.  <blink>Blang.js</blink> will make the
  web great again!
  
-<h1>#blang #MWGA<h1>
-
-
+<h1>#blangin #MWGA<h1>
 
 Why is <blink>Blang.js</blink> the greatest `<BLINK>` Polyfill ever made?
 =========================================================================
@@ -37,8 +35,8 @@ Divine Authority
 The sourcecode was channeled by our leader **directly** from on-high during a 3-day bender. It wasn't just cloned from 
 some other blink polyfill nor kludged together by copying and pasting examples from Wikipedia and StackOverflow.  Thus, 
 it is prefect, akin to [TempleOS](temple).
-  
-  🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅
+
+🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅
 
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props
 [blink()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/blink

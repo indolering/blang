@@ -1,5 +1,5 @@
 {
-  "name": "blang.js",
+  "name": "blang",
   "version": "10.0.0",
   "description": "Blang.js: Teh Blang'n-est <BLINK> Polyfill Ever",
   "main": "blang.js",

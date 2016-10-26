@@ -8,11 +8,13 @@
 
 But <blink>Blang.js</blink> is more than just a pollyfill: it's a movement. In 2013 elitist designers, self-appointed
  [accessibility "experts"](css2), and epilepsy-nazis killed the `<BLINK>` tag.  <blink>Blang.js</blink> will make the
- web great again!
+ web great again (#MWGA)!
  
-<h1>#blangin #MWGA<h1>
+To use, import either `blang.js` or `blang.css`.  Either file will #blang anything wrapped in a `<blink>` tag or using a 
+ blang class.
 
-You can import 
+Blang is available on NPM, Bower, and the jsDelivr CDN:
+    
 
 Why is <blink>Blang.js</blink> the greatest `<BLINK>` Polyfill ever made?
 =========================================================================
@@ -44,4 +46,4 @@ Spiritual Superiority
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props
 [blink()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/blink
 [loop]: https://jsperf.com/while-reverse-vs-for-cached-length
-[temple]: http://www.templeos.org/
+[temple]: http://www.templeos.org

@@ -1,5 +1,5 @@
-<blink>💎Blang.js✨ Teh Blangingest `<BLINK>` Polyfill Ever</blink>
-===================================================================
+<blink>💎Blang.js✨</blink> Making the Web Great Again
+======================================================
 <img src="https://img.shields.io/badge/build-passing-green.svg">
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">
 <img src="https://img.shields.io/packagist/dm/doctrine/orm.svg">
@@ -16,7 +16,7 @@ To use, import either `blang.js` or `blang.css`.  Either file will #blang anythi
 Blang is available on NPM, Bower, and the jsDelivr CDN:
     
 
-Why is <blink>Blang.js</blink> the greatest `<BLINK>` Polyfill ever made?
+Why is <blink>Blang.js</blink> teh blangingest `<BLINK>` Polyfill Ever</blink>
 =========================================================================
 <blink>Blang.js</blink> was not forked from an inferior project nor kludged together by copying and pasting examples
  from Wikipedia and StackOverflow. 

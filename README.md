@@ -20,7 +20,7 @@ Why is <blink>Blang.js</blink> the blangingest `<BLINK>` Polyfill Ever</blink>?
 -------------------------------------------------------------------------------
 <blink>Blang.js</blink> was not forked from an inferior project nor kludged together by copying and pasting examples
  from Wikipedia and StackOverflow. <blink>Blang.js</blink> was coded during a 3-day ~~bender~~ spiritual quest during
- which the almighty GOD himself took control of the keyboard. Thus, it is prefect, akin to [TempleOS](temple).
+ which the almighty GOD **him**self took control of the keyboard. Thus, it is prefect, akin to [TempleOS](temple).
 
 <blink>Blang.js</blink> is perfectly conformant with the original `<BLINK>` implementation: the blink rate is derived 
  from the Gecko sourcecode and adds the [`blink` utility function](blink()) to the `String` prototype.

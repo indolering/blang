@@ -17,12 +17,11 @@ Blang is available on NPM, Bower, and the jsDelivr CDN:
     
 
 Why is <blink>Blang.js</blink> the blangingest `<BLINK>` Polyfill Ever</blink>?
-===============================================================================
+-------------------------------------------------------------------------------
 <blink>Blang.js</blink> was not forked from an inferior project nor kludged together by copying and pasting examples
- from Wikipedia and StackOverflow. 
- 
-Technical Superiority
----------------------
+ from Wikipedia and StackOverflow. <blink>Blang.js</blink> was coded during a 3-day ~~bender~~ spiritual quest during
+ which the almighty GOD himself took control of the keyboard. Thus, it is prefect, akin to [TempleOS](temple).
+
 <blink>Blang.js</blink> is perfectly conformant with the original `<BLINK>` implementation: the blink rate is derived 
  from the Gecko sourcecode and adds the [`blink` utility function](blink()) to the `String` prototype.
  
@@ -31,15 +30,8 @@ speed](loop).
 
 <blink>Blang.js</blink> is less than 50 BYTES in size!  It's incredible!
 
-License Superiority
--------------------
 <blink>Blang.js</blink> is available under the Microsoft Public License.  While we would prefer to use the Microsoft
  Limited Reciprocal License (Ms-LRL), the Open Source mob has forced us to adopt an Open Source certified license.
-
-Spiritual Superiority
-----------------
-<blink>Blang.js</blink> was coded during a 3-day ~~bender~~ spiritual quest during which the almighty GOD himself
- took control of the keyboard. Thus, it is prefect, akin to [TempleOS](temple).
 
 🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅
 

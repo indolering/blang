@@ -36,6 +36,7 @@ However incredible <blink>Blink.js</blink> is, it was only FSM's way of proving 
  * `IE6-WONT-DIE` Breaks all styling before freezing the browser with an infinite `for` loop! 
  * `LISTACLE-SLIDESHOW` Get MOAR impressions by turning that 8 line clickbait piece into a slideshow!
  * `OMG-SOCIAL-NETWORKING` Jack up your social engagment metrics by making it easy for your readers to vote on Digg and Reddit vote buttons or share it everyone you've ever met on Friendster, MySpace, Facebook, Twitter, or Ashley Madison!
+ * `APP-OR-EMAIL` Who doesn't want to let Quora run native code locally?!
  * `HACKER-NEWS` Turn **any** website into a one-off design that some Millenial hasn't bothered to update in a decade.
 
 The Blang.js polyfill is on NPM, Bower, and the jsDelivr CDN:

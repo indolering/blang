@@ -17,14 +17,14 @@
         </path>
  </svg>
 
-In 2013, Mozilla removed support for the `<BLINK>` tag. During a 3-day ~~bender~~ spiritual quest, God revealed that the Cult of Minimalism had colluded with epliletic buzzkills to corrupt web design. Then his Noodly appendeges took control of the keyboard and produced <blink>Blink.js</blink>, a `<BLINK>` <a href="https://en.wikipedia.org/wiki/Polyfill">pollyfill</a>.
+In 2013, Mozilla removed support for the `<BLINK>` tag. During a 3-day ~~bender~~ spiritual quest, God revealed that the Cult of Minimalism had colluded with epliletic buzzkills to corrupt web design. Then his Noodly appendeges took control of the keyboard and produced <blink>Blink.js</blink>, a `<BLINK>` <a href="https://en.wikipedia.org/wiki/Polyfill">pollyfill</a>.  But <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle**:
 
 * Matches the EXACT blink rate of the Gecko source code. 
 * Extends the `String` prototype to include the [`blink` utility function](blink()).
 * [Ultimate speed](loop) achieved via an advanced loop optimization technique known as a *reverse while loop*.
 * Less than 50 BYTES in size!  It downloads in [zero seconds](http://www.download-time.com/).
 
-Yes, it was a code **miracle**.  But <blink>Blink.js</blink> was just FSM's way of proving the divine nature of its *ultimate* revalation: an Ark of the web's Blangingest design patterns!
+However incredible <blink>Blink.js</blink> is, it was only FSM's way of proving the divine nature of its *ultimate* revalation: an Ark of the web's Blangingest design patterns!
 
 #`<BLANG>`
 

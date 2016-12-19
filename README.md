@@ -19,7 +19,7 @@
 
 In 2013, Mozilla removed support for the `<BLINK>` tag. During a 3-day ~~bender~~ spiritual quest, God revealed that the Cult of Minimalism had colluded with epliletic buzzkills to corrupt web design. Then his Noodly appendeges took control of the keyboard and produced <blink>Blink.js</blink>, a `<BLINK>` <a href="https://en.wikipedia.org/wiki/Polyfill">pollyfill</a>.
 
-* Matches the EXACT blink rate from the Gecko source code. 
+* Matches the EXACT blink rate of the Gecko source code. 
 * Extends the `String` prototype to include the [`blink` utility function](blink()).
 * [Ultimate speed](loop) achieved via an advanced loop optimization technique known as a *reverse while loop*.
 * Less than 50 BYTES in size!  It downloads in [zero seconds](http://www.download-time.com/).

@@ -33,21 +33,21 @@ Following this revelation, FSM took control of the keyboard and channeled throug
 
 But however **incredible** <blink>Blink.js</blink> is, the polyfill was only FSM's way of proving the divine nature of its *ultimate* revelation: the  `<BLANG>` tag; an Ark of #Blanging Web Design!
 
-You see, the problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is structural, it is supposed to convey the meaning of the information, not how it is presented.
-Tags such as `<i>`, `<b>`, and `<u>` force structural elements to be styled a certain way.  That's why they were replaced with `<em>`, `<strong>`, and `<span style="text-decoration: underline">`.
-The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement capable of encompassing `<BLINK>` and `<MARQUEE>`!
+The problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is structural, it is supposed to convey the semantic meaning of the information, not how it is presented.
+Tags such as `<i>`, `<b>`, and `<u>` conflate structural elements with styling.  That's why they were replaced with `<em>`, `<strong>`, and `<span style="text-decoration: underline">`.
+The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement, capable of encompassing `<BLINK>`, `<MARQUEE>`, and other tags used designers used to add bling to their websites.
  
-But `<BLANG>` isn't just about emulating tags.  FSM waited until 2016 because the Ark of Web Design needed Web Components to contain every great phase of web design:
+So why isn't it the `<BLING>` tag? Because this isn't just about emulating old-school tags.  FSM waited until 2016 because the Ark of Web Design needed Web Components to contain every great web design pattern:
 
-  * `<BLANG RFC-IFY>`   Transform any specification into a random pile of static documents formatted for a typewriter!
-  * `<BLANG AOL-1000000-FREE-MINUTES>` Animated cursors and `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>` footers.
-  * `<BLANG LISTACLE-SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
-  * `<BLANG OMG-SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to share links on Reddit, Facebook, Twitter, Instagram, WhatsApp, LinkedIn, Snapchat, and Ashley Madison!
-  * `<BLANG INSTALL-OUR-APP>`   Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code locally?!
-  * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!
+  * `<BLANG RFC>`   Transform any specification into a random pile of static documents formatted with a typewriter!
+  * `<BLANG 1000000-FREE-MINUTES>` Animated cursors and `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>` footers.
+  * `<BLANG SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
+  * `<BLANG SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to share links on Reddit, Facebook, Twitter, Instagram, WhatsApp, LinkedIn, Snapchat, and Ashley Madison!
+  * `<BLANG APP>`   Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code locally?!
+  * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!  Want markdown in the comment section?  Fuck you!
   * `<BLANG AI>`    Replace your FAQ section with an artificially intelligent paperclip!
   
-Add some <blink>`#<BLANG>`</blink> to your website today! #DontBlingBlang #ArkOfBlang #`<BLINK>`4LIFE
+So make your website <blink>`#<BLANG>`</blink> with #Blang.js! #DontBlingBlang #ArkOfBlang #`<BLINK>`4LIFE
 
 [FSM]: https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props

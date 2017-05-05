@@ -11,24 +11,24 @@ In 2013, Mozilla removed support for the `<BLINK>` tag. But on a cold winter eve
 * Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
 * Compressed to less than 50 BYTES in size!  <blink>Blink.js</blink> is so minified and compressed it downloads [instantaneously](http://www.download-time.com/)!!!!
 
-But however **incredible** <blink>Blink.js</blink> is, it was only FSM's way of proving the divine nature of its *ultimate* revalation: the  `<BLANG>` tag; an Ark of Blanging Web Design!
+But however **incredible** <blink>Blink.js</blink> is, it was only FSM's way of proving the divine nature of its *ultimate* revelation: the  `<BLANG>` tag; an Ark of Blanging Web Design!
 
 You see, the problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is structural, it is supposed to convey the meaning of the information, not how it is presented. The problem with `<i>`, `<b>`, and `<u>` is that they force structural elements to be styled a certain way.  That's why they were replaced with `<em>`, `<strong>`, `<span style="text-decoration: underline">`.
 
-The `<BLANG>` tag is the sematic `<BLINK>` HTML replacement, encompassing every blanging web design pattern: `<BLINK>`, `<MARQUEE>`, and animated cursors.  But #BLANG #BLANG4LIFE #BLANGtheMOVEMENT isn't just about emulating old tags, with WebComponents `<BLANG>` will empower developers to summon every great web design innovation using attributes:
+The `<BLANG>` tag is the semantic `<BLINK>` HTML replacement, encompassing every blanging web design pattern: `<BLINK>`, `<MARQUEE>`, and animated cursors.  But #BLANG #BLANG4LIFE #BLANGtheMOVEMENT isn't just about emulating old tags, with WebComponents `<BLANG>` will empower developers to summon every great web design innovation using attributes:
 
   * `RFC-IFY` Transform any publishing workflow into static documents formatted for a typewriter!
   * `AOL-1000-FREE-MINUTES` Softcore porn at a blazing 15Kb/s!
   * `IE6-WONT-DIE` Break all styling on a webpage before freezing the browser with an infinite `for` loop! 
   * `LISTACLE-SLIDESHOW` Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
-  * `OMG-SOCIAL-NETWORKING` Jack up your social engagment metrics by making it easy for your readers to vote on Digg and Reddit with vote buttons or share it with everyone you've ever met on Friendster, MySpace, Facebook, Twitter, G+, Instagram, WhatsApp, LinkedIn, Snapchat, Tumblr, and Ashley Madison!
+  * `OMG-SOCIAL-NETWORKING` Jack up your social engagement metrics by making it easy for your readers to vote on Digg and Reddit with vote buttons or share it with everyone you've ever met on Friendster, MySpace, Facebook, Twitter, G+, Instagram, WhatsApp, LinkedIn, Snapchat, Tumblr, and Ashley Madison!
   * `FACEBOOK-WONT-DIE` Load 10 megabytes of crap before freezing the browser with an infinite `for` loop! 
   * `INSTALL-OUR-APP` Who wouldn't want some rando forum to track your GPS location and run native code locally?!
-  * `HACKER-NEWS` Turn **any** website into a one-off design that some Millenial hasn't bothered to update in a decade!
+  * `HACKER-NEWS` Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!
   * `FLASH-WONT-DIE` Break all styling on a webpage before freezing the browser with an infinite `for` loop! 
   * `OMG-STATISTICS` AI powered chatbots spit out FAQ to visitors on your website!
   
-The possibilites are *endless*!
+The possibilities are *endless*!
 
 [FSM]: https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props

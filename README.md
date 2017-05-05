@@ -40,7 +40,7 @@ You see, the problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is 
 Tags such as `<i>`, `<b>`, and `<u>` force structural elements to be styled a certain way.  That's why they were replaced with `<em>`, `<strong>`, and `<span style="text-decoration: underline">`.
 The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement capable of encompassing every blanging web design pattern: `<BLINK>`, `<MARQUEE>`, and animated cursors.  
 
-But #BLANG #BLANG4LIFE #BLANGtheMOVEMENT isn't just about emulating old tags.  FSM waited until 2016 because the Ark needed Web Components to be the keeper of Web Design `<BLANG>` will empower developers to summon every great web design innovation using attributes:
+But #`<BLANG>` isn't just about emulating old tags.  FSM waited until 2016 because the Ark needed Web Components to be the keeper of Web Design `<BLANG>` will empower developers to summon every great web design innovation using attributes:
 
   * `RFC-IFY` Transform any publishing workflow into static documents formatted for a typewriter!
   * `AOL-1000000-FREE-MINUTES` `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>`

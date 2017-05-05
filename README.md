@@ -39,7 +39,7 @@ The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement, capable of encompass
  
 So why isn't it the `<BLING>` tag? Because this isn't just about emulating old-school tags.  FSM waited until 2016 because the Ark of Web Design needed Web Components to contain every great web design pattern:
 
-  * `<BLANG RFC>`   Transform any specification into a random pile of static documents formatted with a typewriter!
+  * `<BLANG RFC>`   Transform any specification into a pile of numerically titled static documents formatted for a typewriter!
   * `<BLANG 1000000-FREE-MINUTES>` Animated cursors and `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>` footers.
   * `<BLANG SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
   * `<BLANG SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to share links on Reddit, Facebook, Twitter, Instagram, WhatsApp, LinkedIn, Snapchat, and Ashley Madison!

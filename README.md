@@ -9,12 +9,12 @@
 Usage
 -----
 
-###CDN
+### CDN
 
     <script src="https://rawcdn.githack.com/indolering/blang/master/blang.js"></script>
     <link href="https://rawcdn.githack.com/indolering/blang/master/blang.css" rel="stylesheet">
 
-###Install
+### Install
 
     bower install blang --save
     

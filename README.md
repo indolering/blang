@@ -1,5 +1,7 @@
+<link href="https://rawcdn.githack.com/indolering/blang/master/blang.css" rel="stylesheet">
+
 <blink>💎Blang.js✨</blink>
-======================================================
+===========================
 <img src="https://img.shields.io/badge/build-passing-green.svg">
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">
 <img src="https://img.shields.io/packagist/dm/doctrine/orm.svg">
@@ -15,6 +17,9 @@ Usage
 ###Install
 
     bower install blang --save
+    
+Background
+----------
 
 In 2013, Mozilla removed support for the `<BLINK>` tag. But on a cold winter evening in 2016 , [the great Noodly one](FSM) took pity on all of humanity and touched its prophet with its noodly appendage.  During the following 3-day ~~bender~~ spiritual quest, FSM revealed that the removal of `<BLINK>` was actually a collusion between The Cult of Minimalism and the Epilepsy Foundation to corrupt web design.  Then FSM took control of the keyboard and channeled through its prophet <blink>Blink.js</blink>, a `<BLINK>` polyfill.  But <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with TempleOS!  <blink>Blink.js</blink>:
 

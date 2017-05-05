@@ -1,4 +1,4 @@
-blink, .blang {
+blink, .blink, #blang, .blang {
     animation: blink 250;
     animation-iteration-count: infinite;
 }

@@ -4,19 +4,6 @@
 <img src="https://img.shields.io/badge/coverage-100%25-green.svg">
 <img src="https://img.shields.io/packagist/dm/doctrine/orm.svg">
 
-<svg width="320" height="320" viewBox="0 0 320 320">
-    <path
-        fill="#FFFFFF" stroke="#000"
-        d="M160,100 Q200,100,200,300 Q100,300,100,200 Z">
-        <animate
-            attributeType="XML"
-            attributeName="fill"
-            values="#800;#f00;#800;#800"
-            dur="0.8s"
-            repeatCount="indefinite"/>
-        </path>
- </svg>
-
 In 2013, Mozilla removed support for the `<BLINK>` tag. But on a cold winter evening in 2016 , [the great Noodly one](FSM) took pity on all of humanity and touched its prophet with its noodly appendage.  During the following 3-day ~~bender~~ spiritual quest, FSM revealed that the removal of `<BLINK>` was actually a collusion between The Cult of Minimalism and the Epilepsy Foundation to corrupt web design.  Then FSM took control of the keyboard and channeled through its prophet <blink>Blink.js</blink>, a `<BLINK>` pollyfill.  But <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with TempleOS!  <blink>Blink.js</blink>:
 
 * Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 

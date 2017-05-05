@@ -44,7 +44,7 @@ So why isn't it the `<BLING>` tag? Because this isn't just about emulating old-s
   * `<BLANG SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
   * `<BLANG SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to share links on Reddit, Facebook, Twitter, Instagram, WhatsApp, LinkedIn, Snapchat, and Ashley Madison!
   * `<BLANG APP>`   Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code locally?!
-  * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!  Want markdown in the comment section?  Fuck you!
+  * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!  Want markdown formatting in the comments?  Fuck you!
   * `<BLANG AI>`    Replace your FAQ section with an artificially intelligent paperclip!
   
 So make your website <blink>`#<BLANG>`</blink> with #Blang.js! #DontBlingBlang #ArkOfBlang #`<BLINK>`4LIFE

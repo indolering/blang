@@ -17,32 +17,33 @@
         </path>
  </svg>
 
-In 2013, Mozilla removed support for the `<BLINK>` tag. During a 3-day ~~bender~~ spiritual quest, God revealed that the Cult of Minimalism had colluded with epliletic buzzkills to corrupt web design. Then his Noodly appendeges took control of the keyboard and produced <blink>Blink.js</blink>, a `<BLINK>` <a href="https://en.wikipedia.org/wiki/Polyfill">pollyfill</a>.  But <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle**:
+In 2013, Mozilla removed support for the `<BLINK>` tag. But on a cold winter evening in 2016 , [the great Noodly one](FSM) took pity on all of humanity and touched its prophet with its noodly appendage.  During the following 3-day ~~bender~~ spiritual quest, FSM revealed that the removal of `<BLINK>` was actually a collusion between The Cult of Minimalism and the Epilepsy Foundation to corrupt web design.  Then FSM took control of the keyboard and channeled through its prophet <blink>Blink.js</blink>, a `<BLINK>` pollyfill.  But <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with TempleOS!  <blink>Blink.js</blink>:
 
-* Matches the EXACT blink rate of the Gecko source code. 
-* Extends the `String` prototype to include the [`blink` utility function](blink()).
-* [Ultimate speed](loop) achieved via an advanced loop optimization technique known as a *reverse while loop*.
-* Less than 50 BYTES in size!  It downloads in [zero seconds](http://www.download-time.com/).
+* Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 
+* Extends the `String` prototype to include the native [`blink` utility function](blink()) (`$('#blang').blink()`).
+* Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
+* Compressed to less than 50 BYTES in size!  <blink>Blink.js</blink> is so minified and compressed it downloads [instantaneously](http://www.download-time.com/)!!!!
 
-However incredible <blink>Blink.js</blink> is, it was only FSM's way of proving the divine nature of its *ultimate* revalation: an Ark of the web's Blangingest design patterns!
+But however **incredible** <blink>Blink.js</blink> is, it was only FSM's way of proving the divine nature of its *ultimate* revalation: the  `<BLANG>` tag; an Ark of Blanging Web Design!
 
-#`<BLANG>`
+You see, the problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is structural, it is supposed to convey the meaning of the information, not how it is presented. The problem with `<i>`, `<b>`, and `<u>` is that they force structural elements to be styled a certain way.  That's why they were replaced with `<em>`, `<strong>`, `<span style="text-decoration: underline">`.
 
-* Semantic HTML replacement for `<BLINK>`, `<MARQUEE>`, animated cursors, social links, and 🛅🛅🛅🛅🛅🛅🛅Emojis🛅🛅🛅🛅🛅🛅🛅 all IN ONE ELEMENT!
-* WebComponents + flexible configuation using properties + data-binding = MBBC!
-* `<BLANG X-SKIN="NAME">` provides presets for every web design epoch!
- * `RFC-IFY` Transform any publishing workflow into static documents formatted for a typewriter!
- * `AOL-1000-FREE-MINUTES` Softcore porn at a blazing 15Kb/s!
- * `IE6-WONT-DIE` Breaks all styling before freezing the browser with an infinite `for` loop! 
- * `LISTACLE-SLIDESHOW` Get MOAR impressions by turning that 8 line clickbait piece into a slideshow!
- * `OMG-SOCIAL-NETWORKING` Jack up your social engagment metrics by making it easy for your readers to vote on Digg and Reddit vote buttons or share it everyone you've ever met on Friendster, MySpace, Facebook, Twitter, or Ashley Madison!
- * `APP-OR-EMAIL` Who doesn't want to let Quora run native code locally?!
- * `HACKER-NEWS` Turn **any** website into a one-off design that some Millenial hasn't bothered to update in a decade.
+The `<BLANG>` tag is the sematic `<BLINK>` HTML replacement, encompassing every blanging web design pattern: `<BLINK>`, `<MARQUEE>`, and animated cursors.  But #BLANG #BLANG4LIFE #BLANGtheMOVEMENT isn't just about emulating old tags, with WebComponents `<BLANG>` will empower developers to summon every great web design innovation using attributes:
 
-The Blang.js polyfill is on NPM, Bower, and the jsDelivr CDN:
-    
-🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅🛅
+  * `RFC-IFY` Transform any publishing workflow into static documents formatted for a typewriter!
+  * `AOL-1000-FREE-MINUTES` Softcore porn at a blazing 15Kb/s!
+  * `IE6-WONT-DIE` Break all styling on a webpage before freezing the browser with an infinite `for` loop! 
+  * `LISTACLE-SLIDESHOW` Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
+  * `OMG-SOCIAL-NETWORKING` Jack up your social engagment metrics by making it easy for your readers to vote on Digg and Reddit with vote buttons or share it with everyone you've ever met on Friendster, MySpace, Facebook, Twitter, G+, Instagram, WhatsApp, LinkedIn, Snapchat, Tumblr, and Ashley Madison!
+  * `FACEBOOK-WONT-DIE` Load 10 megabytes of crap before freezing the browser with an infinite `for` loop! 
+  * `INSTALL-OUR-APP` Who wouldn't want some rando forum to track your GPS location and run native code locally?!
+  * `HACKER-NEWS` Turn **any** website into a one-off design that some Millenial hasn't bothered to update in a decade!
+  * `FLASH-WONT-DIE` Break all styling on a webpage before freezing the browser with an infinite `for` loop! 
+  * `OMG-STATISTICS` AI powered chatbots spit out FAQ to visitors on your website!
+  
+The possibilites are *endless*!
 
+[FSM]: https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props
 [blink()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/blink
 [loop]: https://jsperf.com/while-reverse-vs-for-cached-length

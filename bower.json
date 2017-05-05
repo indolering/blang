@@ -1,9 +1,9 @@
 {
   "name": "blang",
-  "description": "Blang.js: Teh Blang'n-est <BLINK> Polyfill Ever",
+  "description": "Blang.js: More than just a <BLINK> Polyfill",
   "main": "blang.js",
   "authors": [
-    "God"
+    "FSM"
   ],
   "license": "MS-PL",
   "keywords": [

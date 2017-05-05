@@ -1,6 +1,6 @@
 {
-  "name": "blang",
-  "description": "Blang.js: More than just a <BLINK> Polyfill",
+  "name": "blang.js",
+  "description": "Blang.js: more than just a <BLINK> Polyfill",
   "main": "blang.js",
   "authors": [
     "FSM"

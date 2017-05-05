@@ -29,7 +29,7 @@ Following this revelation, FSM took control of the keyboard and channeled throug
 <blink>Blink.js</blink>:
 
 * Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 
-* Extends the `String` prototype to include the native [`blink` utility function](blink()) (`$('#blang').blink()`).
+* Extends the `String` prototype to include the native [`blink` utility function](blink()).
 * Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
 * Compressed to less than 50 BYTES in size!  <blink>Blink.js</blink> is so minified and compressed it downloads [instantaneously](http://www.download-time.com/)!!!!
 

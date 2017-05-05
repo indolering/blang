@@ -40,18 +40,18 @@ You see, the problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is 
 Tags such as `<i>`, `<b>`, and `<u>` force structural elements to be styled a certain way.  That's why they were replaced with `<em>`, `<strong>`, and `<span style="text-decoration: underline">`.
 The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement capable of encompassing every blanging web design pattern: `<BLINK>`, `<MARQUEE>`, and animated cursors.  
 
-But #`<BLANG>` isn't just about emulating old tags.  FSM waited until 2016 because the Ark needed Web Components to be the keeper of Web Design `<BLANG>` will empower developers to summon every great web design innovation using attributes:
+But #`<BLANG>` isn't just about emulating old tags.  FSM waited until 2016 because the Ark of Web Design needed Web Components to contain every phase of web design:
 
-  * `RFC-IFY` Transform any publishing workflow into static documents formatted for a typewriter!
-  * `AOL-1000000-FREE-MINUTES` `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>`
-  * `IE6-WONT-DIE` Break all styling on a webpage before crashing the browser!
-  * `LISTACLE-SLIDESHOW` Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
-  * `OMG-SOCIAL-NETWORKING` Jack up your social engagement metrics by making it easy for your readers to vote on Digg and Reddit with vote buttons or share it with everyone you've ever met on Friendster, MySpace, Facebook, Twitter, G+, Instagram, WhatsApp, LinkedIn, Snapchat, Tumblr, and Ashley Madison!
-  * `FACEBOOK-WONT-DIE` Load 10 megabytes of crap before freezing the browser! 
-  * `INSTALL-OUR-APP` Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code locally?!
-  * `HACKER-NEWS` Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!
-  * `FLASH-WONT-DIE` Break all continuity with the webpage and randomly freeze the browser! 
-  * `OMG-STATISTICS` AI powered chatbots spit out FAQ to visitors on your website!
+  * `<BLANG RFC-IFY>`   Transform any publishing workflow into static documents formatted for a typewriter!
+  * `<BLANG AOL-1000000-FREE-MINUTES>`  `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>`
+  * `<BLANG IE6-WONT-DIE>`   Break all styling on a webpage before crashing the browser!
+  * `<BLANG LISTACLE-SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
+  * `<BLANG OMG-SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to vote on Digg and Reddit with vote buttons or share it with everyone you've ever met on Friendster, MySpace, Facebook, Twitter, G+, Instagram, WhatsApp, LinkedIn, Snapchat, Tumblr, and Ashley Madison!
+  * `<BLANG FACEBOOK-WONT-DIE>` Load 10 megabytes of crap before freezing the browser! 
+  * `<BLANG INSTALL-OUR-APP>`   Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code locally?!
+  * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!
+  * `<BLANG FLASH-WONT-DIE>`    Break all continuity with the webpage and randomly freeze the browser! 
+  * `<BLANG OMG-STATISTICS>`    AI powered paperclips who spit out FAQs to visitors on your website!
   
 The possibilities are *endless*!
 

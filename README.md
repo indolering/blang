@@ -15,7 +15,7 @@ How to add some <blink>`<BLANG>`</blink> to your website
 
 ### Install
 
-    bower install blang --save
+    bower install blang.js --save
     
 Background
 ----------

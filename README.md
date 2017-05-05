@@ -1,6 +1,6 @@
 <link href="https://rawcdn.githack.com/indolering/blang/master/blang.css" rel="stylesheet">
 
-<blink>💎Blang.js✨</blink> *<blink>More than just a `<BLINK>` polyfill!</blink>*
+<blink>💎Blang.js✨ *more than just a `<BLINK>` polyfill!*</blink>
 ===========================
 
 <img src="https://img.shields.io/badge/build-passing-green.svg"> <img src="https://img.shields.io/badge/coverage-100%25-green.svg"> <img src="https://img.shields.io/packagist/dm/doctrine/orm.svg">

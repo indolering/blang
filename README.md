@@ -5,8 +5,8 @@
 
 <img src="https://img.shields.io/badge/build-passing-green.svg"> <img src="https://img.shields.io/badge/coverage-100%25-green.svg"> <img src="https://img.shields.io/packagist/dm/doctrine/orm.svg">
 
-Usage
------
+How to add some <blink>`<BLANG>`</blink> to your website
+--------------------------------------------------------
 
 ### CDN
 
@@ -33,16 +33,16 @@ Following this revelation, FSM took control of the keyboard and channeled throug
 * Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
 * Compressed to less than 50 BYTES in size!  <blink>Blink.js</blink> is so minified and compressed it downloads [instantaneously](http://www.download-time.com/)!!!!
 
-But however **incredible** <blink>Blink.js</blink> is, the polyfill was only FSM's way of proving the divine nature of its *ultimate* revelation: the  `<BLANG>` tag; an Ark of Blanging Web Design!
+But however **incredible** <blink>Blink.js</blink> is, the polyfill was only FSM's way of proving the divine nature of its *ultimate* revelation: the  `<BLANG>` tag; an Ark of #Blanging Web Design!
 
 You see, the problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is structural, it is supposed to convey the meaning of the information, not how it is presented.
 Tags such as `<i>`, `<b>`, and `<u>` force structural elements to be styled a certain way.  That's why they were replaced with `<em>`, `<strong>`, and `<span style="text-decoration: underline">`.
-The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement capable of encompassing every blanging web design pattern: `<BLINK>`, `<MARQUEE>`, and animated cursors.  
-
-But #`<BLANG>` isn't just about emulating old tags.  FSM waited until 2016 because the Ark of Web Design needed Web Components to contain every phase of web design:
+The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement capable of encompassing `<BLINK>` and `<MARQUEE>`!
+ 
+But #`<BLANG>` isn't just about emulating tags.  FSM waited until 2016 because the Ark of Web Design needed Web Components to contain every great phase of web design:
 
   * `<BLANG RFC-IFY>`   Transform any publishing workflow into static documents formatted for a typewriter!
-  * `<BLANG AOL-1000000-FREE-MINUTES>`  `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>`
+  * `<BLANG AOL-1000000-FREE-MINUTES>` Animated cursors and `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>` footers.
   * `<BLANG IE6-WONT-DIE>`   Break all styling on a webpage before crashing the browser!
   * `<BLANG LISTACLE-SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
   * `<BLANG OMG-SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to vote on Digg and Reddit with vote buttons or share it with everyone you've ever met on Friendster, MySpace, Facebook, Twitter, G+, Instagram, WhatsApp, LinkedIn, Snapchat, Tumblr, and Ashley Madison!
@@ -52,7 +52,7 @@ But #`<BLANG>` isn't just about emulating old tags.  FSM waited until 2016 becau
   * `<BLANG FLASH-WONT-DIE>`    Break all continuity with the webpage and randomly freeze the browser! 
   * `<BLANG OMG-STATISTICS>`    AI powered paperclips who spit out FAQs to visitors on your website!
   
-The possibilities are *endless*!
+Add some <blink>`#<BLANG>`</blink> to your website today! #DontBlingBlang #ArkOfBlang #`<BLINK>`4LIFE
 
 [FSM]: https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props

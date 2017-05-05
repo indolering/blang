@@ -23,6 +23,5 @@ document.addEventListener("DOMContentLoaded", function() {
   if(blangs.length > 0){
     document.body.innerHTML = '<blink id="blang" style="text-align: center; font-family: \'Comic Sans MS\'"><h1>You are a terrible human being</h1></blink>';
   }
-
   console.info("But we are totally accepting pull requests if you want to make this happen.");
 });

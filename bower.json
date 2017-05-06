@@ -7,7 +7,6 @@
   ],
   "license": "MS-PL",
   "keywords": [
-    "DontBlingBlang",
     "blink",
     "<BLINK>",
     "blink.js",
@@ -21,8 +20,9 @@
     "blangingest",
     "semantichtml",
     "webcomponents",
+    "DontBlingBlang",
     "<MARQUEE>",
-    "#web-design",
+    "web-design",
     "#blink",
     "#<BLINK>",
     "#blink.js",
@@ -37,7 +37,8 @@
     "#semantichtml",
     "#webcomponents",
     "#<MARQUEE>",
-    "#web-design"
+    "#web-design",
+    "DontBlingBlang"
   ],
   "homepage": "https://github.com/indolering/blang",
   "ignore": [

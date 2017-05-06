@@ -26,28 +26,28 @@ During the following 3-day ~~bender~~ spiritual quest, FSM revealed that the rem
 Following this revelation, FSM took control of the keyboard and channeled through its prophet <blink>Blink.js</blink>, the immaculate `<BLINK>` polyfill.
 <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with TempleOS!  <blink>Blink.js</blink>:
 
-* Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 
-* Extends the `String` prototype to include the native [`blink` utility function](blink()).
-* Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
-* Compressed to less than 50 BYTES!  <blink>Blink.js</blink> is so minified and compressed it downloads in [0 seconds](http://www.download-time.com/)!!!!
+  * Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 
+  * Extends the `String` prototype to include the native [`blink` utility function](blink()).
+  * Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
+  * Compressed to less than 50 BYTES!  <blink>Blink.js</blink> is so minified and compressed it downloads in [0 seconds](http://www.download-time.com/)!!!!
 
-But however **incredible** <blink>Blink.js</blink> is, the polyfill was only FSM's way of proving the divine nature of its *ultimate* revelation: the  `<BLANG>` tag; an Ark of #Blanging Web Design!
+But however **incredible** <blink>Blink.js</blink> is, the polyfill was only FSM's way of proving the divine nature of its *ultimate* revelation: the  `<BLANG>` tag; an Ark of Blanging Web Design!
 
-The problem with `<BLINK>` is that it wasn't *semantic* HTML.  HTML is structural, it is supposed to convey the semantic meaning of the information, not how it is presented.
-Tags such as `<i>`, `<b>`, and `<u>` conflate structural elements with styling.  That's why they were replaced with `<em>`, `<strong>`, and `<span style="text-decoration: underline">`.
-The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement, capable of encompassing `<BLINK>`, `<MARQUEE>`, and other tags used designers used to add bling to their websites.
+The problem with `<BLINK>` is that it wasn't *semantic* HTML.  Markup is structural, it is supposed to convey the meaning of the information, not how it is presented.
+This is why tags such as `<i>`, `<b>`, and `<u>` were replaced with `<em>`, `<strong>`, and `<span style="text-decoration: underline">`.
+The `<BLANG>` tag is a semantic `<BLINK>` HTML replacement, capable of conveying bling in the way `<BLINK>` and `<MARQUEE>` tags used to without restricting their visual representation.
  
-So why isn't it the `<BLING>` tag? Because this isn't just about emulating old-school tags.  FSM waited until 2016 because the Ark of Web Design needed Web Components to contain every great web design pattern:
+So why not a `<BLING>` tag? Because FSM wanted to create an Ark of Web Design capable of holding every great web design trend:
 
   * `<BLANG RFC>`   Transform any specification into a pile of numerically titled static documents formatted for a typewriter!
-  * `<BLANG 1000000-FREE-MINUTES>` Animated cursors and `<center><font face="comic sans" color="purple">Under Construction!</font> <img src="construction.gif"></center>` footers.
+  * `<BLANG 1000000-FREE-MINUTES>` Animated cursors, comic sans, centered text alignment, and auto-playing WAV files!
   * `<BLANG SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
   * `<BLANG SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to share links on Reddit, Facebook, Twitter, Instagram, WhatsApp, LinkedIn, Snapchat, and Ashley Madison!
-  * `<BLANG APP>`   Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code locally?!
+  * `<BLANG APP>`   Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code?!
   * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!  Want markdown formatting in the comments?  Fuck you!
   * `<BLANG AI>`    Replace your FAQ section with an artificially intelligent paperclip!
   
-So make your website <blink>`#<BLANG>`</blink> with #Blang.js! #DontBlingBlang #ArkOfBlang #`<BLINK>`4LIFE
+So make your website <blink>#`<BLANG>`</blink> with #Blang.js! #DontBlingBlang! #ArkOfBlang #`<BLINK>`4LIFE #MYEYESAREBLEEDINGPLEASEMAKEITSTOP
 
 [FSM]: https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props

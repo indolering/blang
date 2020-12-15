@@ -27,7 +27,7 @@ Following this revelation, FSM took control of the keyboard and channeled throug
 <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with TempleOS!  <blink>Blink.js</blink>:
 
   * Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 
-  * Extends the `String` prototype to include the native [`blink` utility function](blink()).
+  * Extends the `String` prototype to include the native [`blink` utility function](blink).
   * Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
   * Compressed to less than 50 BYTES!  <blink>Blink.js</blink> is so minified and compressed it downloads in [0 seconds](http://www.download-time.com/)!!!!
 
@@ -47,11 +47,11 @@ So why not a `<BLING>` tag? Because FSM wanted to create an Ark of Web Design ca
   * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!  Want markdown formatting in the comments?  Fuck you!
   * `<BLANG AI>`    Replace your FAQ section with an artificially intelligent paperclip!
   
-So make your website <blink>#`<BLANG>`</blink> with #Blang.js! #DontBlingBlang! #ArkOfBlang #`<BLINK>`4LIFE #MYEYESAREBLEEDINGPLEASEMAKEITSTOP
+So make your website <blink>#`<BLANG>`</blink> with #Blang.js! #MYEYESAREBLEEDINGPLEASEMAKEITSTOP
 
 [FSM]: https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster
 [css2]: https://www.w3.org/TR/CSS21/text.html#lining-striking-props
-[blink()]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/blink
+[blink]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/blink
 [loop]: https://jsperf.com/while-reverse-vs-for-cached-length
 [temple]: http://www.templeos.org
 [semantic-html]: https://en.wikipedia.org/wiki/Semantic_HTML

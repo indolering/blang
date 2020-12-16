@@ -24,7 +24,7 @@ In 2013, Mozilla removed support for the `<BLINK>` tag. But on a cold winter eve
 During the following 3-day ~~bender~~ spiritual quest, FSM revealed that the removal of `<BLINK>` was actually a collusion between The Cult of Minimalism and the Epilepsy Buzzkill Foundation to corrupt web design.
 
 Following this revelation, FSM took control of the keyboard and channeled through its prophet <blink>Blink.js</blink>, the immaculate `<BLINK>` polyfill.
-<blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with [TempleOS[temple]!  <blink>Blink.js</blink>:
+<blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with [TempleOS][temple]!  <blink>Blink.js</blink>:
 
   * Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 
   * Extends the `String` prototype to include the native [`blink` utility function](blink).

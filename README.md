@@ -20,15 +20,15 @@ How to add some <blink>`<BLANG>`</blink> to your website
 Background
 ----------
 
-In 2013, Mozilla removed support for the `<BLINK>` tag. But on a cold winter evening in 2016, [the great Noodly one](FSM) took pity on all of humanity and touched its prophet with its noodly appendage.
+In 2013, Mozilla removed support for the `<BLINK>` tag. But on a cold winter evening in 2016, [the great Noodly one][FSM] took pity on all of humanity and touched its prophet with its noodly appendage.
 During the following 3-day ~~bender~~ spiritual quest, FSM revealed that the removal of `<BLINK>` was actually a collusion between The Cult of Minimalism and the Epilepsy Buzzkill Foundation to corrupt web design.
 
 Following this revelation, FSM took control of the keyboard and channeled through its prophet <blink>Blink.js</blink>, the immaculate `<BLINK>` polyfill.
 <blink>Blink.js</blink> isn't just some code that was kluged together from StackOverflow answers, it is a programming **miracle** on par with [TempleOS][temple]!  <blink>Blink.js</blink>:
 
   * Matches the EXACT <blink>blink</blink> rate of the original Gecko source code. 
-  * Extends the `String` prototype to include the native [`blink` utility function](blink).
-  * Achieves [ultimate speed](loop) via a **highly** advanced loop optimization technique known as a *reverse while loop*.
+  * Extends the `String` prototype to include the native [`blink` utility function][blink].
+  * Achieves [ultimate speed][loop] via a **highly** advanced loop optimization technique known as a *reverse while loop*.
   * Compressed to less than 50 BYTES!  <blink>Blink.js</blink> is so minified and compressed it downloads in [0 seconds](http://www.download-time.com/)!!!!
 
 But however **incredible** <blink>Blink.js</blink> is, the polyfill was only FSM's way of proving the divine nature of its *ultimate* revelation: the  `<BLANG>` tag; an Ark of Blanging Web Design!

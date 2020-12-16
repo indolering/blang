@@ -43,7 +43,7 @@ So why not a `<BLING>` tag? Because FSM wanted to create an Ark of Web Design ca
   * `<BLANG 1000000-FREE-MINUTES>` Animated cursors, comic sans, centered text alignment, and auto-playing WAV files!
   * `<BLANG SLIDESHOW>`    Get more ad impressions by turning that 8 line clickbait piece into a slideshow!
   * `<BLANG SOCIAL-NETWORKING>` Jack up your social engagement metrics by making it easy for your readers to share links on Reddit, Facebook, Twitter, Instagram, WhatsApp, LinkedIn, Snapchat, and Ashley Madison!
-  * `<BLANG APP>`   Who wouldn't want some rando forum to track your GPS location, scour your contact list, and run native code?!
+  * `<BLANG APP>`   Who wouldn't want some random asshole being able to track your GPS location, scour your contact list, and run native code?!
   * `<BLANG HACKER-NEWS>`   Turn **any** website into a one-off design that some Millennial hasn't bothered to update in a decade!  Want markdown formatting in the comments?  Fuck you!
   * `<BLANG AI>`    Replace your FAQ section with an artificially intelligent paperclip!
   
